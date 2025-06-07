@@ -19,8 +19,3 @@ const Task = mongoose.model("Task", taskSchema);
 module.exports = Task;
 
 
-priority: {
-  type: String,
-  enum: ['Low', 'Medium', 'High'],
-  default: 'Medium',
-},
