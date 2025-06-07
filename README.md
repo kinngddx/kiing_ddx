@@ -99,3 +99,10 @@ A MERN application for basic tasks management.
 1. Install all dependencies:
    ```sh
    npm run install-all
+
+
+   ## Acknowledgments
+
+This project is inspired by and built upon the MERN Task Manager tutorial by [Aayush301](https://github.com/aayush301/MERN-task-manager).  
+I have customized and added new features to better understand the MERN stack.
+
